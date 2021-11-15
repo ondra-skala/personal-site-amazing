@@ -1,0 +1,152 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+h1{
+  font-family: 'Pacifico', cursive;
+  margin-top: 50px;
+  margin-bottom: 0;
+  color: #00ADB5;
+  font-size: 5.625rem;
+  line-height: 1.75;
+}
+
+.i-am{
+  margin-top: 0.1rem;
+  color: black;
+  font-size: 1.3rem;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #00ADB5;
+  font-size: 2.5rem;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #71C9CE;
+  font-size: 1.5rem;
+}
+
+p{
+  font-family: 'Sora', sans-serif;
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 1.1rem;
+}
+
+a{
+  color:#36797f;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.profile-pic{
+  margin-top: 5%;
+  height: 250px;
+  width:  250px;
+}
+
+.ending-text{
+  margin-bottom: 60px;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #A6E3E9;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #71C9CE;
+  text-decoration: none;
+}
+
+.bio{
+  width: 50%;
+  margin-left: 25%;
+}
+
+.web-dev{
+  height: 27%;
+  width: 27%;
+  float: left;
+  margin-right: 30px;
+}
+
+.coder{
+  height: 27%;
+  width:  27%;
+  float: right;
+  margin-left: 30px;
+}
+
+.cloud1{
+ position: absolute;
+ top: 300px;
+ left: 500px
+}
+.cloud2{
+  position: absolute;
+  right: 600px;
+  top: 100px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 12px;
+  border-color: #A6E3E9;
+  width: 10%;
+}
+
+.top-container{
+  background-color: #E3FDFD;
+  position: relative;
+  padding-top: 100px;
+}
+
+.skill-row{
+  text-align: left;
+  width: 50%;
+  margin: 50px auto 100px auto;
+  line-height: 2.2;
+}
+
+.skill1{
+  clear: right;
+}
+
+.skill2{
+  clear: left;
+}
+
+.bottom-container{
+  background-color: #A6E3E9;
+  margin-top: 100px;
+  padding-bottom: 75px;
+  padding-top: 30px;
+}
+
+.footer-link1{
+  font-size: 1.5rem;
+}
+.footer-link2{
+  font-size: 1.5rem;
+  margin: auto 60px auto 60px;
+}
+.footer-link3{
+  font-size: 1.5rem;
+}
+
+.credit{
+  margin-top: 60px;
+  color: white;
+}
